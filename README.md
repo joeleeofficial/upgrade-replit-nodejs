@@ -23,5 +23,6 @@ run="bash start.sh"
 
 ### Customize / Configure 
 
-`start.sh` - Modify Nodejs Version
-`start.sh` - Modify File To Run 
+- `start.sh` - Modify Nodejs Version
+
+-`start.sh` - Modify File To Run 
