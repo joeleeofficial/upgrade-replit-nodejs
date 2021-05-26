@@ -21,4 +21,7 @@ run="bash start.sh"
 2. `start.sh`
 3. `.replit`
 
+### Customize / Configure 
 
+`start.sh` - Modify Nodejs Version
+`start.sh` - Modify File To Run 
